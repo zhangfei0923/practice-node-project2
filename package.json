@@ -1,0 +1,19 @@
+{
+  "name": "practice-node-project2",
+  "version": "0.0.1",
+  "description": "nodejs-实战",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangfei0923/practice-node-project2.git"
+  },
+  "author": "\"\"\u001b[Dzhangfei\"\u001b[D \u001b[D\u001b[D\u001b[D\u001b[D\u001b[ fei\"\u001b[D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangfei0923/practice-node-project2/issues"
+  },
+  "homepage": "https://github.com/zhangfei0923/practice-node-project2#readme"
+}
